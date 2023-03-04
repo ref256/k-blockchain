@@ -1,0 +1,18 @@
+{
+  "name": "k-blockchain",
+  "version": "0.1.0",
+  "description": "K-Blockchain Prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@gravity-ui/prettier-config": "^1.0.1",
+    "crypto": "^1.0.1",
+    "dat-swarm-defaults": "^1.0.3",
+    "discovery-swarm": "^6.1.0",
+    "get-port": "^5.1.1"
+  }
+}
